@@ -75,7 +75,7 @@
     "got": "^11.8.2",
     "graphql": "^15.7.2",
     "html-webpack-plugin": "^5.5.0",
-    "http-proxy-middleware": "^2.0.1",
+    "http-proxy-middleware": "^2.0.9",
     "ignore-webpack-plugin": "^0.3.0",
     "inline-chunk-html-plugin": "^1.1.1",
     "react-refresh": "^0.10.0",
